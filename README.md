@@ -2,7 +2,7 @@
 
 **`Desenvolvedor em formação`**
 
-Me chamo Henrique Dantas Pereira, tenho 21 anos e sou carioca. Atualmente curso Sistemas de Informação no CEFET e estou
+Me chamo Henrique Dantas Pereira, tenho 21 anos e sou do Rio de Janeiro/RJ. Atualmente curso Sistemas de Informação no CEFET e estou
 aprofundando meus estudos em Java. Tenho grande interesse pela área de segurança da informação e busco evoluir
 constantemente como desenvolvedor.
 
