@@ -21,20 +21,7 @@ constantemente como desenvolvedor.
 <br/>
 
 
-### 📊 Estatísticas
-
 <p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=devriquedantas&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=3600" 
-  />
-<img
-align="left"
-alt="GitHub Stats"
-height="200"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=devriquedantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=3600"
-/>
+  <img align="left" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=devriquedantas&show_icons=true&theme=tokyonight&locale=pt-br&cache_seconds=1800&rand=5" alt="Estatísticas do GitHub" />
+  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devriquedantas&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=5&cache_seconds=1800&rand=6" alt="Tecnologias" />
 </p>
